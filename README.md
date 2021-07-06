@@ -2,7 +2,7 @@
 
 Welcome to my Digital Garden!
 
-This is my personal wiki where I share everything I know about this world in the form of an online GitBook hosted on [GitHub](https://github.com/ioalex/garden).
+This is my personal wiki where I share everything I know about this world in the form of an [online GitBook](https://wiki.alexhe.io/) hosted on [GitHub](https://github.com/ioalex/garden).
 
 ## Inspiration
 
