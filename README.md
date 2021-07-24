@@ -6,5 +6,6 @@ This is my personal wiki where I share everything I know about this world in the
 
 ## Inspiration
 
-- [Maggie Appleton](https://maggieappleton.com/garden)
-- [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
+* [Maggie Appleton](https://maggieappleton.com/garden)
+* [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
+
