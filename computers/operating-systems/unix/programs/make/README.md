@@ -6,7 +6,7 @@
 
 ## Notes
 
-* [How to Create a Self-documenting Makefile](https://wiki.alexhe.io/computers/operating-systems/unix/programs/make/how-to-create-a-self-documenting-makefile)
+* [How to Create a Self-documenting Makefile](how-to-create-a-self-documenting-makefile.md)
 
 ## Links
 
