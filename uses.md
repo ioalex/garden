@@ -20,7 +20,7 @@ I frequently change aspects of my setup / what constitutes as my daily drivers s
 
 ### Custom Built PC \(2020\)
 
-[PCPartPicker AU](https://au.pcpartpicker.com/user/ioalex/saved/df3Xyc#)
+[PCPartPicker AU](https://au.pcpartpicker.com/list/mC6R7X)
 
 This is my pride and joy - my first build, born during the midst of Victoria's COVID-19 lockdown. I had a tonne of fun building and learning how to build this machine.
 
