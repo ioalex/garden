@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Meta](meta.md)
+* [Meta](meta/README.md)
+* [Uses](uses/README.md)
 
 ## Tech
 
