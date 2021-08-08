@@ -8,4 +8,6 @@ This is my personal wiki where I share everything I know about this world in the
 
 * [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/) - heavy inspiration, really like what he's done so I've shamelessly copied a lot of what Nikita done.
 * [Maggie Appleton](https://maggieappleton.com/garden) - my first introduction to the concept of a _digital garden_.
-* 
+
+
+

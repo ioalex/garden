@@ -78,8 +78,86 @@ Also a hand-me-down from my mum \(thanks mum\). I use the iPad to read Medium ar
 * **Docking Station**: Targus USB-C Universal Dual Video 4K \(freebie from work\)
 * * The latest addition to my setup. This is a really cool device that allows me to connect my MacBook and work laptop to my dual monitors, as well as charge them through one USB-C/A cable.
   * I have a KVM switch hooked to this, so that I can use the same peripherals across my PC and whatever device is linked, with the click of a button. 
+* **Watch**: Fitbit Versa 2
+  * I use my Fitbit to track and monitor my steps, heart rate and sleep quality. The battery life is starting to slow down but other than that I can't complain - it's good at what it does!
 
 ## Software
 
+### Operating Systems
+
+#### Arch Linux
+
+My day-to-day workhorse. The installation process was really fun and definitely different to what I had previously experienced. I love that the installation is minimal and bare-bones as it allows me to customise how I do things to my heart's content. The [Arch Wiki](https://wiki.archlinux.org/) is bloody amazing \(probably what sold me on Arch\) and the [AUR](https://aur.archlinux.org/) community is very active.
+
+
+
+#### Windows 10
+
+Pretty standard stuff. I use Windows 10 mostly for gaming \([VALORANT](https://playvalorant.com/en-us/)\) but do have Ubuntu and Pengwin set-up via WSL2. I must say, the developer experience you get from Pengwin is top notch.
+
+
+
+#### macOS
+
+Everyone's beloved Apple OS. Was a good experience when I all I had was my MacBook. [Homebrew](https://brew.sh/) has a strong community around it so using the command line gave me no problems.
+
+
+
+### Mobile Apps
+
 As mentioned earlier, I like to use software that is available across different platforms - so a lot of web-based apps.
+
+
+
+#### Productivity
+
+* Todoist
+* Google Calendar
+* Notion
+* Raindrop.io
+* GitHub
+* 1Password
+* IFTTT
+
+
+
+#### Reading
+
+* Gmail
+* Kindle
+* Medium
+* Dev.to
+* Audible
+* Instapaper
+* Readwise
+* Inoreader
+* Apollo
+
+
+
+#### Tracking
+
+* Fitbit
+* MyFitnessPal
+* Rise Sleep
+* Day One
+* EMMO
+* Habitify
+* Google Sheets
+
+
+
+#### Music
+
+* Spotify
+* Brain.fm
+* Snoozemaker
+* Airr
+
+
+
+#### Other
+
+* Parcel
+* Steer
 
