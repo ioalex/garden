@@ -68,7 +68,7 @@ Also a hand-me-down from my mum \(thanks mum\). I use the iPad to read Medium ar
 - **Audio Interface**: Steinberg UR12
   - Works great with my microphone. Haven't had any issues using this across the different [operating systems](tech/computers/operating-systems/) I use.
 - **Docking Station**: Targus USB-C Universal Dual Video 4K \(freebie from work\)
-  - - The latest addition to my setup. This is a really cool device that allows me to connect my MacBook and work laptop to my dual monitors, as well as charge them through one USB-C/A cable.
+  - The latest addition to my setup. This is a really cool device that allows me to connect my MacBook and work laptop to my dual monitors, as well as charge them through one USB-C/A cable.
   - I have a KVM switch hooked to this, so that I can use the same peripherals across my PC and whatever device is linked, with the click of a button.
 - **Watch**: Fitbit Versa 2
   - I use my Fitbit to track and monitor my steps, heart rate and sleep quality. The battery life is starting to slow down but other than that I can't complain - it's good at what it does!
