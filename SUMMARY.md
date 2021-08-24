@@ -3,6 +3,8 @@
 - [Introduction](README.md)
 - [Meta](meta/meta.md)
 - [Uses](uses/uses.md)
+- [Now](now/now.md)
+- [Books](books/books.md)
 
 ## Tech
 
