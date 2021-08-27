@@ -27,3 +27,4 @@
 ---
 
 - [Sports](sports/sports.md)
+  - [Weightlifting](sports/weightlifting.md)
