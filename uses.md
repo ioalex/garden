@@ -46,32 +46,32 @@ Also a hand-me-down from my mum \(thanks mum\). I use the iPad to read Medium ar
 
 ### Others
 
-- **Monitors**: Acer ED320QR S & Acer ED320QRP
-  - The two monitors are basically the same \(both 31.5" Curved & FHD w/ 165Hz\).
-  - Dual monitors are awesome, definitely a productivity booster for me.
-  - Held up with my trusty Brateck LDT47-C024N monitor mount.
-- **Keyboard**: Logitech Craft
-  - Pretty much got this for the knob.
-- **Mouse**: Logitech MX Master 3
-  - My favourite mouse of all-time - not that I've tried very many.
-  - Favourite feature: The Hyper-fast Scrollwheel
-  - Second favourite feature: The Easy-Switch button - allows me to switch between my linked devices.
-- **Speakers**: Audioengine A2+
-  - A new addition to my setup - a gift from my girlfriend.
-  - The look and sound quality on these speakers are fucking great.
-- **Headphones**: Bose Quietcomfort 35 II
-  - I've had these for years - very reliable and great battery life, perfect for travel.
-- **Webcam**: Logitech C922 Pro Stream
-  - I hate it when my face is mirrored.
-- **Microphone**: Audio Technica AT2020
-  - I feel like a Twitch streamer when I'm using this.
-- **Audio Interface**: Steinberg UR12
-  - Works great with my microphone. Haven't had any issues using this across the different [operating systems](tech/computers/operating-systems/) I use.
-- **Docking Station**: Targus USB-C Universal Dual Video 4K \(freebie from work\)
-  - The latest addition to my setup. This is a really cool device that allows me to connect my MacBook and work laptop to my dual monitors, as well as charge them through one USB-C/A cable.
-  - I have a KVM switch hooked to this, so that I can use the same peripherals across my PC and whatever device is linked, with the click of a button.
-- **Watch**: Fitbit Versa 2
-  - I use my Fitbit to track and monitor my steps, heart rate and sleep quality. The battery life is starting to slow down but other than that I can't complain - it's good at what it does!
+* **Monitors**: Acer ED320QR S & Acer ED320QRP
+  * The two monitors are basically the same \(both 31.5" Curved & FHD w/ 165Hz\).
+  * Dual monitors are awesome, definitely a productivity booster for me.
+  * Held up with my trusty Brateck LDT47-C024N monitor mount.
+* **Keyboard**: Logitech Craft
+  * Pretty much got this for the knob.
+* **Mouse**: Logitech MX Master 3
+  * My favourite mouse of all-time - not that I've tried very many.
+  * Favourite feature: The Hyper-fast Scrollwheel
+  * Second favourite feature: The Easy-Switch button - allows me to switch between my linked devices.
+* **Speakers**: Audioengine A2+
+  * A new addition to my setup - a gift from my girlfriend.
+  * The look and sound quality on these speakers are fucking great.
+* **Headphones**: Bose Quietcomfort 35 II
+  * I've had these for years - very reliable and great battery life, perfect for travel.
+* **Webcam**: Logitech C922 Pro Stream
+  * I hate it when my face is mirrored.
+* **Microphone**: Audio Technica AT2020
+  * I feel like a Twitch streamer when I'm using this.
+* **Audio Interface**: Steinberg UR12
+  * Works great with my microphone. Haven't had any issues using this across the different [operating systems](https://github.com/ioalex/garden/tree/ba62a91ff12301378a22e57344f1641f08b5dd94/uses/tech/computers/operating-systems/README.md) I use.
+* **Docking Station**: Targus USB-C Universal Dual Video 4K \(freebie from work\)
+  * The latest addition to my setup. This is a really cool device that allows me to connect my MacBook and work laptop to my dual monitors, as well as charge them through one USB-C/A cable.
+  * I have a KVM switch hooked to this, so that I can use the same peripherals across my PC and whatever device is linked, with the click of a button.
+* **Watch**: Fitbit Versa 2
+  * I use my Fitbit to track and monitor my steps, heart rate and sleep quality. The battery life is starting to slow down but other than that I can't complain - it's good at what it does!
 
 ## Software
 
@@ -95,66 +95,67 @@ Everyone's beloved Apple OS. Was a good experience when I all I had was my MacBo
 
 As mentioned earlier, I like to use software that is available across different platforms - so a lot of web-based apps.
 
-##### Productivity
+**Productivity**
 
-- Todoist
-- Google Calendar
-- Notion
-- Raindrop.io
-- GitHub
-- 1Password
-- IFTTT
+* Todoist
+* Google Calendar
+* Notion
+* Raindrop.io
+* GitHub
+* 1Password
+* IFTTT
 
-##### Reading
+**Reading**
 
-- Gmail
-- Kindle
-- Medium
-- Dev.to
-- Audible
-- Instapaper
-- Readwise
-- Inoreader
-- Apollo
+* Gmail
+* Kindle
+* Medium
+* Dev.to
+* Audible
+* Instapaper
+* Readwise
+* Inoreader
+* Apollo
 
-##### Tracking
+**Tracking**
 
-- Fitbit
-- MyFitnessPal
-- Rise Sleep
-- Day One
-- EMMO
-- Habitify
-- Google Sheets
+* Fitbit
+* MyFitnessPal
+* Rise Sleep
+* Day One
+* EMMO
+* Habitify
+* Google Sheets
 
-##### Music
+**Music**
 
-- Spotify
-- Brain.fm
-- Snoozemaker
-- Airr
+* Spotify
+* Brain.fm
+* Snoozemaker
+* Airr
 
-##### Other
+**Other**
 
-- Parcel
-- Steer
+* Parcel
+* Steer
 
 #### iOS Shortcuts
 
-- Find Gas Nearby
-- Delayed Time Message
-- Text Last Image
-- Make a QR Code
+* Find Gas Nearby
+* Delayed Time Message
+* Text Last Image
+* Make a QR Code
 
 #### iOS Automations
 
 I generally try to automate anything that I can afford to. The reason being that I want to **simplify** life for myself. In a day, we are limited in the amount of time, energy and focus that we have. By automating different aspects of my life, I set up systems so that I save time and mental energy for more important task, even if its only a few minutes.
 
-- When my wake-up alarm is stopped -> Siri Speak Text: Greeting, Current Weather, Precipitation% -> Open Todoist
-- At 7AM -> Send Message to loved ones
-- When I arrive to the gym -> Open Google Sheets: Workout Tracker
-- When I leave the gym -> Show Alert: "Make post-workout protein shake!"
-- When iPhone is connected to AirPods -> Set Volume to 65%
-- When battery level is 50% -> Set Low Power Mode On
-- When iPhone is connected to power -> Set Low Power Mode On
-- When iPhone is disconnected from power -> Set Low Power Mode Off
+* When my wake-up alarm is stopped -&gt; Siri Speak Text: Greeting, Current Weather, Precipitation% -&gt; Open Todoist
+* At 7AM -&gt; Send Message to loved ones
+* When I arrive to the gym -&gt; Open Google Sheets: Workout Tracker
+* When I leave the gym -&gt; Show Alert: "Make post-workout protein shake!"
+* When iPhone is connected to AirPods -&gt; Set Volume to 65%
+* When battery level is 50% -&gt; Set Low Power Mode On
+* When iPhone is connected to power -&gt; Set Low Power Mode On
+* When iPhone is disconnected from power -&gt; Set Low Power Mode Off
+
