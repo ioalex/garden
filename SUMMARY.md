@@ -26,6 +26,6 @@
 
 ---
 
-- [Sports](sports/README.md)
+- [Sports](sports/sports.md)
   - [Basketball](sports/basketball.md)
   - [Weightlifting](sports/weightlifting.md)
