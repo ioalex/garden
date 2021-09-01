@@ -23,6 +23,7 @@
 - [Web Development](tech/web-development/README.md)
   - [Front End](tech/web-development/front-end.md)
   - [Back End](tech/web-development/back-end.md)
+  - [JavaScript](tech/web-development/javascript/javascript.md)
 
 ---
 
