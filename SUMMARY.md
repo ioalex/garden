@@ -29,6 +29,7 @@
 
 - [Life](life/life.md)
   - [Principles](life/principles.md)
+  - [Beliefs](life/beliefs.md)
 - [Sports](sports/sports.md)
   - [Basketball](sports/basketball.md)
   - [Weightlifting](sports/weightlifting.md)
