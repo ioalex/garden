@@ -1,10 +1,10 @@
 ---
-
 description: "A catalogue of all the books I have read so far... \(since 2021\)"
-
 ---
 
 # Books
+
+I read books in either their physical or digital eBook form, usually whatever is cheaper at the time. I also like to take advantage of audiobooks and like to listen to them when I am performing chores and other tasks that require low focus.
 
 ## 2021
 
