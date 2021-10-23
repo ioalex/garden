@@ -17,8 +17,9 @@ My name is Alex He. I was born during Autumn / Fall of 1998 in Melbourne, Austra
 - My favourite school subject was Integrated Studies. I remember sketching _gadgets_ and _inventions_ (influenced by [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic) books and the [Back to the Future](https://www.imdb.com/title/tt0088763/) trilogy) in IS class. I was convinced that I'd become an inventor and that I would change the world.
 - I was an athletic kid and was generally quite good at most [sports](../sports/sports.md), though I sucked at sports like soccer / football that required a high-level of foot coordination.
 - Growing up I had a decent amount of Lego at home, most of which was of the [Bionicles](https://www.ebay.com.au/b/LEGO-Bionicle-Complete-Sets-Packs/19006/bn_7013688011?mkevt=1&mkcid=1&mkrid=705-53470-19255-0&campid=5338596835&customid=&toolid=10001) line. I played a lot of video games, namely the mainline Pokémon series - emulating the earlier titles (pre-4th gen.) using [VisualBoyAdvance](https://emulation.gametechwiki.com/index.php/VisualBoyAdvance) which I would share with the other kids at school as if I were some kind of dealer.
-  - I also played both RuneScape and MapleStory, making anonymous friends online.
-  - I remember hiding my Nintendo DS behind music sheets because I was so into Final Fantasy IV, playing it in-between intervals of piano practice - yes, I see now how this was a dumb idea.
+  - I also played games like Club Penguin, RuneScape and MapleStory, making anonymous friends online.
+    - I attribute an early introduction to the concept of supply and demand entirely to RuneScape.
+  - I recall hiding my Nintendo DS behind music sheets because I was so into Final Fantasy IV, playing it in-between intervals of piano practice - yes, I see now how this was a dumb idea.
 - At some point I was introduced to [Pivot Animator](https://www.pivotanimator.net/Download.php) after watching [Xiao Xiao animations](https://www.youtube.com/watch?v=eplAQ3fEr8M) (Zhu Zhiqiang) on YouTube. Using Pivot 2.27, I would create fight scenes and comedy sketches using stick figure assets from the now defunct Droidz website.
 
 ## Growing Up
