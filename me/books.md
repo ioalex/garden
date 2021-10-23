@@ -1,6 +1,10 @@
-# Books
+---
 
-A catalogue of all the books I have read so far \(from 2021\):
+description: "A catalogue of all the books I have read so far... \(since 2021\)"
+
+---
+
+# Books
 
 ## 2021
 
