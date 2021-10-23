@@ -6,6 +6,16 @@
 - [Now](me/now.md)
 - [Books](me/books.md)
 
+---
+
+- [Life](life/life.md)
+  - [Principles](life/principles.md)
+  - [Beliefs](life/beliefs.md)
+- [Sports](sports/sports.md)
+  - [Basketball](sports/basketball.md)
+  - [Weightlifting](sports/weightlifting.md)
+- [Gaming](gaming/gaming.md)
+
 ## Tech
 
 - [Computers](tech/computers/README.md)
@@ -26,10 +36,3 @@
   - [JavaScript](tech/web-development/javascript/javascript.md)
 
 ---
-
-- [Life](life/life.md)
-  - [Principles](life/principles.md)
-  - [Beliefs](life/beliefs.md)
-- [Sports](sports/sports.md)
-  - [Basketball](sports/basketball.md)
-  - [Weightlifting](sports/weightlifting.md)
