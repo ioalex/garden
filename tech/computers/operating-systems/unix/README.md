@@ -15,7 +15,6 @@ Unix philosophy:
 
 ## Links
 
-* [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/%7Ethenry/resources/unix_art/ch01s06.html)
-* [Unix Design Philosophy](https://wiki.c2.com/?UnixDesignPhilosophy)
-* [Unix Way](https://proxy.c2.com/cgi/wiki?UnixWay)
-
+- [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/%7Ethenry/resources/unix_art/ch01s06.html)
+- [Unix Design Philosophy](https://wiki.c2.com/?UnixDesignPhilosophy)
+- [Unix Way](https://proxy.c2.com/cgi/wiki?UnixWay)

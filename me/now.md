@@ -10,12 +10,11 @@ The book that I am [reading](books.md) now 📚: Rule \#1
 
 What I am working on these days 💼:
 
-* Dotfiles
-* Digital Garden
+- Dotfiles
+- Digital Garden
 
 ## Other Projects & Experiments 🧪
 
-* Improve my writing to share on Medium
-* Balancing work-from-home life
-* Fixing my posture
-
+- Improve my writing to share on Medium
+- Balancing work-from-home life
+- Fixing my posture

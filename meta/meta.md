@@ -7,4 +7,3 @@ Each folder is a [topic that can include other topics](https://github.com/ioalex
 Again, I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
 
 Note: Content is in Australian English. You may notice subtle differences in spelling if you're not from around these parts eg. color & colour.
-

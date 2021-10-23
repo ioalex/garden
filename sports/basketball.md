@@ -8,6 +8,5 @@ description: "Yeah, now basketball is my favorite sport. I like the way they dri
 
 ## Links
 
-* [Basketball Reference](https://www.basketball-reference.com/)
-* [The Players' Tribune](https://www.theplayerstribune.com/sports/basketball)
-
+- [Basketball Reference](https://www.basketball-reference.com/)
+- [The Players' Tribune](https://www.theplayerstribune.com/sports/basketball)

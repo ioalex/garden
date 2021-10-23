@@ -8,6 +8,5 @@ I try to push myself to go to the gym 🏋️ consistently.
 
 ## Links
 
-* [Crafting a Winning Mindset \(Even if You Only Have 10 Minutes\)](http://www.sportpsychologytoday.com/sport-psychology-for-athletes/a-winning-mindset/)
-* [Article on The Mamba Mentality](https://www.psychologytoday.com/us/blog/path-optimal-living/202001/the-mamba-mentality)
-
+- [Crafting a Winning Mindset \(Even if You Only Have 10 Minutes\)](http://www.sportpsychologytoday.com/sport-psychology-for-athletes/a-winning-mindset/)
+- [Article on The Mamba Mentality](https://www.psychologytoday.com/us/blog/path-optimal-living/202001/the-mamba-mentality)

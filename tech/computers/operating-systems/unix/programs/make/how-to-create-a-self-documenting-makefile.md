@@ -2,19 +2,17 @@
 
 > Accelerate your workflow and DevOps with command-line aliases you can check in
 
-**Source**: [Link](https://victoria.dev/blog/how-to-create-a-self-documenting-makefile/)  
-
+**Source**: [Link](https://victoria.dev/blog/how-to-create-a-self-documenting-makefile/)
 
 GNU `make` can be used to perform common development activities eg.:
 
-* updating programs
-* installing dependencies
-* and testing
+- updating programs
+- installing dependencies
+- and testing
 
 To do all the aforementioned with a Makefile \(GNU `make`\), we use **Makefile rules** and **recipes**.
 
-Similar parallels exist for POSIX flavor `make`, like **Target Rules**; however they are outside the scope of this article.  
-
+Similar parallels exist for POSIX flavor `make`, like **Target Rules**; however they are outside the scope of this article.
 
 Example:
 
@@ -38,7 +36,7 @@ serve: ## Run the local development server
 initial: update env install serve ## Install tools and start development server
 ```
 
-### A Self-documenting Makefile
+## A Self-documenting Makefile
 
 Here is an example of a `help` command:
 
@@ -61,4 +59,3 @@ update               Do apt upgrade and autoremove
 ```
 
 Now we have our very own personalised and project-specific CLI tool!
-
