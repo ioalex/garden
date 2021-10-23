@@ -2,6 +2,7 @@
 
 - [Introduction](README.md)
 - [Meta](meta/meta.md)
+- [From the Start](me/from-the-start.md)
 - [Uses](me/uses.md)
 - [Now](me/now.md)
 - [Books](me/books.md)
