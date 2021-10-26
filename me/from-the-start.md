@@ -1,10 +1,8 @@
-# From the Start
-
 ---
-
 description: "the story so far..."
-
 ---
+
+# From the Start
 
 My name is Alex He. I was born during Autumn / Fall of 1998 in Melbourne, Australia.
 
