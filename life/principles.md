@@ -11,5 +11,5 @@ Here are some ideas and principles I try to follow:
 - **Prioritise and execute**
 - **Take relentless action**
 - **Practice consistency over intensity**
-- Always remember **物极必反** (wù jí bì fǎn); which translates to [Things will develop in the opposite direction when they become extreme](https://baike.baidu.com/item/物极必反/5139) or as Jaden Smith says ["**too much of good stuff is bad stuff**."](https://youtu.be/n_H8UUxsuNA&start=7&end=24)
+- Always remember **物极必反** (wù jí bì fǎn); which translates to [Things will develop in the opposite direction when they become extreme](https://baike.baidu.com/item/物极必反/5139) or as Jaden Smith says ["**too much of good stuff is bad stuff**."](https://youtu.be/n_H8UUxsuNA&start=7&end=24) Be intentional / deliberate about things and approach in moderation.
 - An often thrown-around life principle is to "**avoid being the smartest person in the room**." My take on it is to always put yourself in a position to learn things from people smarter or more knowledgeable than you. That being said, do not undermine the ability of others as there is always something to learn from someone else, and you do not want to fall into the trap that is egotism.
