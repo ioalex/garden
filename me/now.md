@@ -1,8 +1,8 @@
 ---
-description: What I'm currently up to...
+description: What's On My Mind?
 ---
 
-# What's On My Mind?
+# Now
 
 _Last updated on 01/11/2021._
 
