@@ -8,6 +8,8 @@
 - [Books](me/books.md)
 - [Life](life/life.md)
   - [Principles](life/principles.md)
+  - [Rules](life/rules.md)
+  - [Principles vs Rules](life/principles-vs-rules.md)
   - [Beliefs](life/beliefs.md)
 - [Sports](sports/sports.md)
   - [Basketball](sports/basketball.md)
