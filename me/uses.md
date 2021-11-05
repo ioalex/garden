@@ -6,7 +6,7 @@ description: A list of hardware and software that I use on a regular basis.
 
 I can be a bit of a pedant when it comes to the things I use. People who know me, know that I am usually quite frugal, however when it comes to my daily drivers, I don't mind spending the extra coin.
 
-My purchasing principle is usually as follows: If I think and feel that an item can add value to my life and that \(often most importantly\) that value outweighs the price tag then in my eyes it is worth the money. The value I typically look for is **convenience**; _does this item make my life easier?_
+My purchasing principle is usually as follows: If I think and feel that an item can add value to my life and that \(often most importantly\) that value outweighs the price tag, then in my eyes it is worth the money. The value I typically look for is **convenience**; _does this item make my life easier?_ _How much time can I save by using this item?_
 
 I thought it would be fun to list out everything that I use here. Furthermore, doing something like this allows me to take a step back and look at what I already have, so that I can:
 
