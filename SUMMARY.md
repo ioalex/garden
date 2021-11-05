@@ -11,6 +11,7 @@
   - [Rules](life/rules.md)
   - [Principles vs Rules](life/principles-vs-rules.md)
   - [Beliefs](life/beliefs.md)
+- [Philanthropy](philanthropy/philanthropy.md)
 - [Sports](sports/sports.md)
   - [Basketball](sports/basketball.md)
   - [Weightlifting](sports/weightlifting.md)
