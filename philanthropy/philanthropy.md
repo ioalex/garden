@@ -50,3 +50,6 @@ I like the idea of giving more of my hard-earned money to causes I care about.
 
 - [ATO: Gifts and donations](https://www.ato.gov.au/Individuals/Income-and-deductions/Deductions-you-can-claim/Other-deductions/Gifts-and-donations/)
 - [ChangePath](https://www.changepath.com.au/index.php)
+- [Binance Charity](https://www.binance.charity)
+- [Sublime Fund](https://sublimefund.org)
+- [1% for the Planet](https://www.onepercentfortheplanet.org)
