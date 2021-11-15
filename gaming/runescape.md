@@ -9,3 +9,4 @@
 - [YT: FlippingOldschool](https://youtube.com/c/FlippingOldschool)
 - [YT: Theoatrix OSRS](https://youtube.com/c/Theoatrix)
 - [YT: Slayermusiq1](https://youtube.com/c/slayermusiq1)
+- [YT: Smallexplamp](https://youtube.com/c/RunescapeExpLamp)
