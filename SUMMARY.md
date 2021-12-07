@@ -11,15 +11,20 @@
   - [Rules](life/rules.md)
   - [Principles vs Rules](life/principles-vs-rules.md)
   - [Beliefs](life/beliefs.md)
-- [Philanthropy](philanthropy/philanthropy.md)
 - [Money](money/money.md)
   - [Personal Finance](money/personal-finance.md)
   - [Budgeting](money/budgeting.md)
   - [Investing](money/investing.md)
+- [Cryptocurrency](cryptocurrency/cryptocurrency.md)
+  - [Polkadot](cryptocurrency/polkadot.md)
+- [Philanthropy](philanthropy/philanthropy.md)
+- [Security](security/security.md)
+- [Privacy](privacy/privacy.md)
 - [Sports](sports/sports.md)
   - [Basketball](sports/basketball.md)
   - [Weightlifting](sports/weightlifting.md)
 - [Gaming](gaming/gaming.md)
+  - [RuneScape](gaming/runescape.md)
 
 ## Tech
 
