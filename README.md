@@ -1,14 +1,20 @@
 ---
-description: "Welcome to my Digital Garden!"
+description: "There's no place like home! 🏡"
 ---
 
 # Welcome
 
-Hi, I'm [Alex](https://alex.notion.dog).
+G'day, I'm [Alex](https://alexhe.io) 🙋‍♂️.
 
-This is my personal wiki where I share everything I know about this world in the form of an [online GitBook](https://wiki.alexhe.io/) hosted on [GitHub](https://github.com/ioalex/garden).
+Welcome to [`rakuen (楽園)`](https://wiki.alexhe.io/), my digital garden, paradise, Eden or whatchamacallit. This personal wiki serves as a personal knowledge base where I share everything I know about this world in the form of an [online GitBook](https://wiki.alexhe.io/) hosted on [GitHub](https://github.com/ioalex/garden). I also share a fair bit about myself throughout the wiki.
 
-Please close the door behind you! 🚪
+I coined this place `rakuen` because it sounds cool and the definition is rather fitting.
+
+> 楽園: any place of complete bliss and delight and peace
+
+Make yourself feel at home!
+
+Feel free to [let me know you came along](https://ctt.ac/fomO8).
 
 ## Inspiration
 
