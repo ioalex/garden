@@ -1,11 +1,16 @@
 # Table of contents
 
+## Start
+
 - [Welcome](README.md)
 - [Meta](meta/meta.md)
 - [From the Start](me/from-the-start.md)
 - [Uses](me/uses.md)
 - [Now](me/now.md)
 - [Books](me/books.md)
+
+## Topics
+
 - [Life](life/life.md)
   - [Principles](life/principles.md)
   - [Rules](life/rules.md)
