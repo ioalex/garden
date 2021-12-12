@@ -12,7 +12,9 @@ I coined this place `rakuen` because it sounds cool and the definition is rather
 
 > 楽園: any place of complete bliss and delight and peace
 
-![Image](./.gitbook/assets/japanese-garden.jpg)
+![Waterfall in the Japanese Gardens of Portland /r/EarthPorn](./.gitbook/assets/japanese-garden.jpg)
+
+<!-- Source: https://www.reddit.com/r/EarthPorn/comments/5azydi/waterfall_in_the_japanese_gardens_of_portland_oc/ -->
 
 Make yourself feel at home!
 
