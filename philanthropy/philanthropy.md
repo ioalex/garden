@@ -26,6 +26,11 @@ The aforementioned definition for **'philanthropy'** is what I believe most peop
 - [Humble Bundle](https://www.humblebundle.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/donate)
 
+## Projects I sponsor / support:
+
+- [Obsidian](https://obsidian.md)
+- [Apollo](https://apolloapp.io)
+
 ## On ways to give back
 
 - Volunteering
