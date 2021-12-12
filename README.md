@@ -12,6 +12,8 @@ I coined this place `rakuen` because it sounds cool and the definition is rather
 
 > 楽園: any place of complete bliss and delight and peace
 
+![Image](./.gitbook/assets/japanese-garden.jpg)
+
 Make yourself feel at home!
 
 Feel free to [let me know you came along](https://ctt.ac/fomO8).
