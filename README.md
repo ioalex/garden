@@ -29,3 +29,11 @@ Feel free to [let me know you came along](https://ctt.ac/fomO8).
 ## General Disclaimer
 
 Everything here is subject to change.
+
+## Support Me
+
+You can support me by [Buy[ing] Me a Coffee here](https://www.buymeacoffee.com/dotalex) or using the button below provided by Ko-fi.
+
+Any proceeds are greatly appreciated and a currently undecided portion will be going directly to charity.
+
+<a href='https://ko-fi.com/K3K47FJGA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
